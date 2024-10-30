@@ -6,6 +6,6 @@ export type GuitarT = {
   price: number
 }
 
-export type CarItem = GuitarT & {
+export type CartItem = GuitarT & {
   quantity: number
 }
